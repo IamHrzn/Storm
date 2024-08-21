@@ -1,3 +1,0 @@
-local Plr = game:GetService("Players").LocalPlayer
-
-Plr:Kick("Down for maintenance, will be up in no time - hrzn")
